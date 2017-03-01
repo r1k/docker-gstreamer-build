@@ -13,4 +13,4 @@ sed -i 's/apt-get install/apt-get install -y/g' cerbero/cerbero/bootstrap/linux.
 
 cd cerbero && ./cerbero-uninstalled bootstrap
 
-#cerbero package gstreamer-1.0
+cerbero package gstreamer-1.0
