@@ -4,3 +4,4 @@ services:
   gstreamer-build:
     build: .
     image: r1k/gstreamer-build:v1
+
